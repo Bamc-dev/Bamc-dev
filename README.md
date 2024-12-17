@@ -6,7 +6,7 @@
 
 ## 👨‍💻 **About Me**
 
-🛠️ **Full-Stack Developer & Big Data Enthusiast**  
+🛠️ **Full-Stack Developer**  
 💡 **Curious** and **creative**, I thrive on solving complex problems and creating useful solutions.  
 🎯 My goal is to collaborate on projects that combine **efficiency** and **innovation**.  
 
